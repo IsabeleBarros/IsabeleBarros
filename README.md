@@ -1,6 +1,6 @@
-- 👋 Olá, meu nome é Isabele Barros, tenho 18 anos e atualmente estou cursando Design na PUCRIO.
-- 👀 Tenho interesse nas áreas de UX/UI Design, desenvolvimento front-end e Inteligência Artificial.
-- 🌱 Atualmente estou aprendendo UI Design, JavaScript, Bootstrap, DOM e Python.
+- 👋 Olá, meu nome é Isabele Barros, tenho 19 anos e atualmente estou cursando Design na PUCRIO.
+- 👀 Tenho interesse nas áreas de UX/UI Design, desenvolvimento front-end e Inteligência Artificial
+
 
 
 <!---
