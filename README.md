@@ -1,6 +1,6 @@
-- 👋 Olá, meu nome é Isabele Barros, tenho 20 anos e atualmente estou cursando o 6° período de Design na PUC-RIO, com ênfase em Interação e Experiência Digital.
+- 👋 Olá, meu nome é Isabele Barros, tenho 21 anos e atualmente estou cursando Design na PUC-RIO, com ênfase em Interação e Experiência Digital.
 
-- 👋 Hi, my name is Isabele Barros, I'm 20 years old and I'm currently studying Design in Puc-Rio, and my emphasis is Interaction with Digital Experience.
+- 👋 Hi, my name is Isabele Barros, I'm 21 years old and I'm currently studying Design in Puc-Rio, and my emphasis is Interaction with Digital Experience.
 
 
 <!---
